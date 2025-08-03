@@ -1,0 +1,5 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "GettingToBlinky_5.0")(type "KiCad")(uri "${KIPRJMOD}/GettingToBlinky_5.0.kicad_sym")(options "")(descr ""))
+  (lib (name "GettingToBlinky_5.0_Updated")(type "KiCad")(uri "${KIPRJMOD}/GettingToBlinky_5.0_Updated.kicad_sym")(options "")(descr ""))
+)
