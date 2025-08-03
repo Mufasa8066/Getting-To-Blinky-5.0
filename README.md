@@ -1,2 +1,3 @@
 # Getting-To-Blinky-5.0
-This is an online project where we are creating a simple LED. I am using this as a stepping stone to learning KiCAD.
+
+In this project, we are creating an blinking LED using a 7555 timer. This is a very basic and beginner board for those looking to go into the realm of PCB design.
